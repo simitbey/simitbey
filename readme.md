@@ -7,6 +7,7 @@ Some information about me:
 > Economy so bad barely alive
 > Happy to see you here
 > I've changed my mind
+> stop reading me lmao
 > why are you still here
 > shoo go away
 > you know I can make this quite long.
@@ -67,9 +68,11 @@ Some information about me:
 > you take the blue pill, you continue on with your life and believe what you want to believe.
 > you take the red pill, you stay in wonderland and see how deep the rabbit hole goes.
 > go on take a pill
+> 
 > [blue] or [red]
 > blue: continue the story
-> red: continue to line  
+> red: continue to line >109<
+> 
 > Blue pill choser! what up my man
 > I'm a nice humble coder
 > what's up?
@@ -85,3 +88,22 @@ Some information about me:
 > cout << "hello dumbo";
 > funny enough people prefer c++ over java
 > eh they have their arguments but an opinion is an opinion.
+> whats your favorite language tho
+> I would love to learn. 
+> ok you're not telling me.
+> such a boring person you are.
+> life is boring
+> makes no sense
+> why am I suffering
+> I dont want to live
+> life makes me suffer and I am in constant pain
+> I've lost all my friends and my family
+> I am so lonely
+> dear god
+> I can't help myself and I can't stand this anymore
+> Aaaaa!
+> aAAAAAAAAAAAAAAAAAAAAAAAAAÂÂÂÂÂÂÂ!
+> /*[BANG]*/ (Gunshot sounds)
+> -end of story for the blue pill choser-
+> 
+> *Story will continue sorry for the inconvinience you can read the blue pill tho if you'd like.
