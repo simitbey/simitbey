@@ -1,4 +1,4 @@
-> Some information about me:
+Some information about me:
 I live in Turkey
 Attending to Açı Schools as an 11th grader
 54437B VEX Team Captain
